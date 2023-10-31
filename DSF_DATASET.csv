@@ -1,9 +1,405 @@
-FirstName,LastName,DOB,Sex
-BIWANGU,BIWANGU,04 04 2009,2
-CHATA,NYAMBE,07 07 2006,2
-CHINGUMBE,LIYWALI,24 10 2009,2
-DANIEL,SIYANGA,17 02 2004,2
-EMMANUEL,CHILUFYA,27 08 2003,2
-FLORIDAH,CHIKEMBA,13 04 2005,1
-IMASIKU,NAMAKAU,29 11 2007,1
-IMBUWA,ILUKUI,28 08 2006,2
+FIRST NAME,LAST NAME,SEX,DOB
+MUBITA,WAMULUME,M,
+EMMANUEL,PONISO,M,
+MUNYAMU,PUMULO,F,
+MBEWE,ROSEMARY,F,
+MUWINDWA,LIFASI,F,
+PUMULO,MUBITA,M,
+SELWA,MILABO,M,
+EMMANUEL,MUTUNDA,M,
+KAUNDA,AMOS,M,
+AGNESS,PHIRI,F,
+ANNA,TUTA,F,
+BECKHAM,KAMANISHA,M,
+BLESSED,KAMUSHI,M,
+BLESSING,KWALOMBOTA,F,
+BLESSINGS,MATEU,F,
+BRINELL,SIKUFA,F,
+CAROLINE,MUTEMWA,F,
+CHINGUMBE,NANDILA,M,
+CHONI,MIKATAZO,M,
+CHUMA,KOYAWA,F,
+DEBORAH,MUKATA,F,
+DOMINIC,MUYUNDA,M,
+DORRIET,MUTONGA,F,
+ELIZABERTH,NGUBU,F,
+ENOCK,LUTAMBO,M,
+GEOFREY,SITWALA,M,
+GETY,ILUNGA,M,
+GRECIOUS,SAMBOKO,F,
+MUHONGO,IFUNGA,M,
+INDALA,INDALA,M,
+JAQUELINE,PHIRI,F,
+JOU,NDUMBA,F,
+NGILA,JWAU,F,
+AKATMA,KABUKABU,F,
+NAMAKAU ,KABULE,F,
+MWALE,KALALUKA,M,
+BIEMBA ,KAMANA,F,
+LIMUNGA,KANYUMBU,M,
+SIYUMBWA,KUMOYO,F,
+KALALUKA,LIFUMBO,F,
+LUMBALA,LIKONGE,F,
+LISABEL,MAONDE,F,
+NGOMA,LUBASI,M,
+NAMAKAU ,LUTANGU,F,
+MARY,SILEMA,F,
+MOOTO,MASILISO,F,
+LUBASI,MASIYALETI,M,
+BLESSED,MATE,F,
+MAXILDER,HAMPANDE,F,
+SIYANGA,MAYEMELO,M,
+CHINGUMBE,MAZUWA,M,
+SABATA,MBONGI,M,
+MELANIE,CHIPMAN,F,
+MINIVA,MAIMBOLWA,F,
+MIRRIAM . M,NAMITONDO,F,
+MISHECK,MBANGU,M,
+MISHENYI ,MISHENYI,M,
+MUKATIMUI,MONDE,F,
+KAFUKO ,MOONO,M,
+MULAKO,MUBITA,F,
+NAMAKALEZA,MUME,M,
+SITAMULAO,MUNENE,M,
+ROSEMARY,MANYANDO,F,
+SEPANO,LUBINDA,F,
+SEPISO,SILILO ,M,
+AARON ,SICHIMWA,F,
+STEWART,SIKETE,M,
+SAELI,SUBULWA,M,
+VERONICAH,CHINOYA,F,
+WAMUNDILA,WAMUNDILA,M,
+BIWANGU,BIWANGU,M,
+CHATA,NYAMBE,M,
+CHINGUMBE,LIYWALI,M,
+DANIEL,SIYANGA,M,
+EMMANUEL,CHILUFYA,M,
+FLORIDAH,CHIKEMBA,F,
+IMASIKU,NAMAKAU,F,
+IMBUWA ,ILUKUI,M,
+JESEPH,MOOTO,M,
+KABUKU,INDALA,M,
+KAHILU,YEMBE,M,
+AMOS,KAUNDA,M,
+KUBONGANA,LIMAMA,M,
+LIKANDO,MUFAYA,M,
+LIKANDO,NAWA,M,
+ABIGAL,LIWANGA,F,
+LUTAMBO,SITAMULAO,M,
+JOSEPHINE,LUTANGU ,F,
+LIKANDOM,MANGABWA,M,
+BRAIN,MANGOLO,M,
+MBANGU,MBANGU,M,
+MUNDANYA,KAYAWE,M,
+MUSHEBA,MUSHEBA,M,
+COLLETY,MUSIYALELA ,F,
+NAMATAA,SITALI,F,
+NAMITONDO,NAMITONDO,M,
+NAMUKOLO,MUNDIA,F,
+NYAMBE,MUNGINA,M,
+PASCALINA,SIFAYA,F,
+PUMULO,NJAMBA,M,
+SITALI,NAKAKENA,F,
+SUYA,LUNGOWE,F,
+WAMUWI,SITWALA,F,
+PURITY,ZHAU,F,
+Susiku,Lulanga,M,
+Miyanda,Nchimunya,M,
+Nyoka,Matomola,M,
+Kaswilo,Katema,M,
+Brighton,Silumesi ,M,
+Geofrey,Muyunda,M,
+Richard,Kayawe,M,
+Clayton,Mukubonda,M,
+Imwandi,Kashweka,M,
+Kennedy,Chishimba,M,
+Allan,Katutu,M,
+Kwalombota,Akende,M,
+Kelvin,Keembe,M,
+Namulimbwa,Benia,M,
+Kachana,Njekwa,M,
+Rueben,Nyambose,M,
+Brighton,Mushala,M,
+Isaac,Kufuna,M,
+Simeon,Chitumbo,M,
+Clever,Kakupa,M,
+Kaneta,Kaneta,M,
+Phinious,Kwalombota,M,
+Mazuba,Mweene,M,
+Passmore,Hazemba,M,
+Liboma,Liboma,M,
+Simon,Mfula,M,
+Imasiku,Mundia,M,
+Litongo,Duncan,M,
+Chipeso,Davies,M,
+Mwitumwa,Mwitumwa,M,
+Kakoma,Limbwambwa,M,
+Sitali,Sitali,M,
+Joseph,Mutakata,M,
+Joseph,Kayumba,M,28.08.05
+Gideon,Kayumba,M,25.01.03
+Duke,Kamandani,M,29.04.07
+Prince,Mofya,M,06.03.05
+Osward,Chikoloma,M,04.04.06
+Chinyemba,Mbingila,M,21.09.04
+Kahalu,Chiteta,M,01.06.06
+Abraham,Kalaluka,M,09.12.04
+Zangata,Ngungula,M,31.06.06
+Mulambwa,Mulambwa,M,20.06.06
+Mashekwa ,Mashekwa,M,31.05.06
+Collins,Pelekelo ,M,15.10.07
+William,Songiso,M,07.07.07
+Joshua,Katota,M,03.02.06
+Amon,Silungwe ,M,26.06.05
+Wesley,Kayamboma,M,06.11.05
+Abraham,Mutangaziko,M,04.12.06
+Mijo,Miyombo,M,07.07.07
+Micheal,Daka ,M,06.11.05
+Mwandamena,Mwandamena,M,02.11.06
+Patrick,Banda,M,13.06.08
+Levy,Nalitanda,M,08.10.08
+Mwenda. Hope,Inambao,M,04.06.08
+Kabunda,Pumulo,M,16.12.06
+Inambwae,Lutangu,M,16.07.08
+Hamusokwe,Mwauta,M,04.04.07
+Ezra,Ndeele,M,20.12.08
+Mubuyaeta,Mumbula,M,31.07.07
+Japhet,Chinyama,M,01.06.07
+Ackim,Mufalo,M,17.10.06
+Emmanuel,Mitti,M,17.07.07
+Paul,Siyanga,M,19.05.07
+Peter,Mukosela,M,23.05.08
+Sikufele ,Simakumba,M,19.12.06
+Mwiya ,Nangana,M,25.11.07
+Emmanuel,Kayaba,M,27.12.07
+Steven,Kasanga,M,30.06.06
+Danny,Matomola,M,08.08.06
+Biemba,Kashweka ,M,24.12.07
+Masiliso,Masiliso,M,24.04.05
+Musangu,Ndala,M,11.08.07
+Bruce,Munene,M,03.01.05
+Blessed,Beenzu,M,24.04.05
+Lottie,Kalombo,M,22.09.06
+Emmanuel,Shaile,M,04.03.08
+Emmanuel,Kumoyo,M,30.10.06
+Ngulale,Mutti,M,24.12.08
+Musenge,Ngenda,M,06.02.07
+Samuel,Kawana,M,04.10.08
+Dalitso. Paul,Chuni,M,01.08.08
+Kalaluka,Kalaluka,M,01.08.06
+Joshua,Likando ,M,15.08.07
+Emmanuel,Itwi,M,29.12.07
+Justine,Mwambwa,M,21.01.09
+Angel,Likando ,M,19.08.07
+Timothy.Mubita,Mundia,M,
+Bertrand,Sichimwi,M,18.11.08
+Joshua,Mwansa,M,12.12.06
+Mitti,Chimwemwe,M,04.09.06
+Sitapo,Mutukwa,M,21.04.08
+Mutemwa,Mutafela,M,08.07.07
+Davies,Simpasa,M,17.10.07
+Phinious,Kashweka,M,12.01.06
+Lucky,Sundano,M,08.04.05
+Munyindei,Nyambe,M,16.10.05
+Moses,Munalula,M,11.05.06
+David,Kabuku,M,22.07.08
+Daniel,Ndumba,M,11.05.07
+Joshua,Ilukena,M,20.03.07
+Blessings,Kabangu,M,22.12.07
+Mubanga,Mandunga,M,17.01.05
+Kaiko,Kaiko,M,23.03.04
+Nangwala,Muzyamba,M,21.12.06
+Chindungu,Likomeno,M,22.12.07
+Gracias,Milimo,M,28.07.07
+Fortune,Simweene,M,09.10.07
+Puma. C,Shibwanga,M,07.11.08
+Pando,Mwenda,M,14.01.09
+Ntokwa,Chikambi,M,22.12.08
+Alex,Kabwela,M,27.01.07
+Samuel,Shfweti,M,13.06.07
+Emmanuel,Chinyama,M,10.06.06
+Borniface,Phiri,M,25.04.06
+Davie,Mwaba ,M,15.05.05
+Yuvwenu,Mathao,M,15.11.05
+Maliti,Maliti,M,15.10.05
+John,Mukuni,M,25.04.05
+Luneta,Kawengo,M,11.08.05
+Carlos,Phiri,M,14.11.06
+mosho,Mosho,M,15.08.06
+Muzu,Mudenda ,M,09.09.06
+Prince,Mafuka,M,25.09.06
+Joe,Mwangombe,M,05.08.05
+Abel,Kalaluka,M,29.09.06
+Sibeso,Wakumelo,M,29.09.05
+Kakoma,Kapui,M,28.04.05
+Ilitongo,Mawela,M,12.12.05
+Namakando,Namushi,M,04.08.06
+Saint,Kalale,M,29.06.06
+Nathan,Sikainga,M,02.09.05
+Brain,Wasamunu,M,29.03.05
+Martin,Chisanga,M,17.06.06
+Joshua,Nasilele,M,31.10.06
+Mwinda,Mwinda,M,02.05.05
+Situmbaeto,Wamundila,M,25.08.06
+Nyambe,Mwitila,M,02.02.05
+Ndana,Simakando,M,12.08.06
+Alinafe,Lungu,M,26.12.08
+Taurai,Chinhare,M,11.09.07
+Gift. Kahyata,Nsamba,M,11.08.05
+Mainza,Mukubesa,M,02.02.07
+Caleb.Bukelezo,Mubiana ,M,13.01.06
+Borniface,Mutale,M,05.11.04
+Foster,Mwale,M,19.03.06
+Likando,Nambayo,M,27.05.05
+Joseph,Mvula,M,18.04.06
+Samuel,Mulyata,M,22.07.05
+Webby,Kabwe,M,28.07.05
+Micheal,Mwetiana,M,02.02.06
+Charles,Mubitelela ,M,05.08.05
+Subulwa,Wamuloti,M,15.04.02
+Andrew,Mwila,M,06.01.07
+Ikasaya,Kwalombota,M,26.11.07
+Kafungwa,Emmanuel,M,19.06.06
+Maseli,Nawa,M,15.06.07
+Simenda,Simenda,M,06.01.06
+Moola,Sikufele,M,06.01.02
+Chibeza,Zimba,M,27.08.05
+Tembo,Matthew,M,06.06.05
+Mulia,Romeo,M,28.12.06
+Nzila,Chipego,M,23.07.07
+Lutangu,Waluka,M,01.02.07
+Chifuna,Lugano,M,14.05.07
+Chinyama,Chimuka,M,08.12.07
+Simbaya,Chimwemwe,M,06.08.06
+Matimba,Hamainda,M,20.12.07
+Lubosi,Mwanawina,M,01.05.06
+Kayoka,Kayoka,M,25.12.07
+Walubita,Paul,M,02.02.06
+Kashela,Misheck,M,26.11.04
+Lubita,David,M,28.09.04
+Mukumbi,Emmanuel,M,17.05.04
+Mukosiku,Munalula,M,11.12.04
+Imasiku,Imasiku. Mike,M,09.01.06
+Mutumba,Namasiku,M,24.08.06
+Mataka,Nelson,M,25.03.07
+Njamba,Danny,M,04.05.05
+Mutanuka,Amon. Akufuna,M,05.12.05
+Mukamba,Mukamba,M,25.05.05
+Kalaluka,Namiluka,M,15.08.06
+Mizhi,Peter,M,26.05.06
+Kasubi,Kalezhi,M,20.05.05
+Sambono,Noah,M,08.08.07
+Tembo,Chisomo. Gray,M,09.03.07
+Chomba,Chuck,M,11.11.07
+Siyumbwa,Gift,M,12.06.06
+Kunda,Abraham,M,27.09.04
+Mponda,Ivwananji,M,01.11.06
+Chabota,Chizyuka,M,03.05.05
+Nawa ,Mushimbei,M,05.04.00
+Mulobela,Minyoi,M,03.03.05
+Mbindo,Mbindo,M,19.10.07
+Mbangu,Foster,M,29.10.04
+Munalula,Mukosiku,M,11.11.04
+Mabenga,Nawa,M,12.07.07
+Kasanda,Daniel,M,01.06.02
+Mukena,Akakulubelwa,M,22.02.06
+Sarah,Namfukwe,F,
+Esnart,Mipishi,F,
+Namakau,Mufaya,F,
+Veronica,Nyambe,F,
+In’utu,Mbumwaye,F,
+Mutando,Malumbano,F,
+Nancy,Wamui,F,
+Christine,Mukelabo,F,
+Grace,Mumba,F,
+Blessings,Phiri,F,
+Mungolwa,Mungolwa,F,
+Abigail,Mufwakabanze,F,
+Chisoma,Nkhoma,F,
+Namakau,Mwanza,F,
+Namakando,Pelekelo,F,
+Blessings,Luteta,F,
+Ladson,Chigabwe,M,
+Tabakamulamu,Nyambe,F,
+Wasa,Sinyinda,F,
+Twambo,Chikandwa,F,
+Julie,Kashande,F,
+Edinah,Mubiaeta,F,
+Maineno,Sikuta,F,
+Kukenga,Sakuwaha,F,
+Yvone,Nsamba,F,
+Martha,Muchindu,F,
+Betty,Mutaipi,F,
+Bridget,Samutete,F,
+Beh,Mwape,F,
+Hope. Anayawa,Mulyata,F,
+Maikisa,Lyomba,F,
+Galinah,Mushe,F,
+Mushiba,Liboma,F,
+Tumelo,Sikumba,F,
+Lister,Kimemena,F,
+Joy,Likupe,F,
+Beatrice,lukonga,F,
+Mumba,Lungu,F,
+Charity,Bisesa,F,
+Esther,Mulemwa,F,
+Lungowe,Mulemwa,F,
+Darry,Owen,M,
+Agnes,Kayombo,F,
+Wilfred,Chilala,M,
+kelvin,chanda,M,
+Peter,mwitumwa,M,
+Gift,Chiyaze,M,
+Mundia,Masiliso,M,
+Enock,musiku,M,
+Danny,chifusa,M,
+Paul,Lutangu,M,
+Gift,Mwinga,M,
+Lewis,Chifusa,M,
+Hendricks,Habukali,M,
+Davies,Kambanja,M,
+Kufekisa,Kabalube,M,
+Hopkins,Mandanda,M,
+Emmanuel,Kabika,M,
+Noah,Kambeu,M,
+Innocent,Limpo,M,
+Lawrence,Masombwe,M,
+Joseph,Njamba,M,
+Francis,Mundia,M,
+Ephiriam,Sitaana,M,
+Emmanuel,Mwamba,M,
+Voster,Mulongo,M,
+Jason,Mwenya,M,
+Sinonge,Musole,M,
+Chishimba,Bwalya,M,
+Jah,Mwape,M,
+George,Saboi,M,
+Anshel,Divot,M,
+Muletamba,Lufwendo,M,
+Lumino,Sikombwa,M,
+Sepiso,Sepiso,M,
+Loloji,Ndonga,M,
+Sylvester,Bwalya,M,
+Mukonda,Liwoyo,M,
+Likanduko,Pelekelo,M,
+Vincent,Mpukuta,M,
+Mathews,Mukenani,M,
+Kennedy,Mate,M,
+Jose,Antonio,M,
+Mulenga,Mubanga,M,
+Vital,Kamuzima,M,
+Choolwe,Mweene,M,
+Nathan,Tobolo,M,
+kelly,Malilwe,M,
+Mulemwa,Mulemwa,M,
+Mutemwa,Kotwa,M,
+Joshua,Ngenda,M,
+George,Kaluwe,M,
+Enerst,Chama,M,
+Musonda,Mulenga,M,
+Sylvester,Mbewe,M,
+Anthony,Munenga,M,
+Jonathan,Simanego,M,
+John,Masheke,M,
+Gabriel,Mundia,M,
+Timothy,Mumba,M,
